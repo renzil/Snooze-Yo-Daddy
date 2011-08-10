@@ -2,4 +2,5 @@
 <resources>
     <string name="hello">Hello World, LaunchActivity!</string>
     <string name="app_name">Snooze Yo Daddy</string>
+    <string name="description">Application to confgure Snooze Yo Daddy</string>
 </resources>
